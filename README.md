@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${Game Store}
+
+## Game Store
 - online store for pc games
 ## Installation
 - used npm backage ( Nodejs command prompt )  to install the following :
@@ -19,6 +18,3 @@ and using external libraries like ( Swiper js - wow.js ) with some custom work l
 - finally tested it on desktop , tablet and mobile and it working with me.
 
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
