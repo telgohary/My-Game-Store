@@ -3,10 +3,12 @@
 - online store for pc games
 ## Installation
 - used npm backage ( Nodejs command prompt )  to install the following :
+
 1)bootstrap backage ( css - js )
 2)Angular backage
 3)font awesome backage
 4)animate css backage
+
 and using external libraries like ( Swiper js - wow.js ) with some custom work like ( slider js file )
 ## Usage
 - first added css includes in the ( header ) and js includes before ( body ) tag end.
